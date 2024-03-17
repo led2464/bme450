@@ -1,4 +1,4 @@
-# Title - Differentiation of Cancerous Breast Tissue (Malignant vs Benign) from Mammogram Imaging By Implementing Trained Neural Networks
+# Differentiation of Cancerous Breast Tissue (Malignant vs Benign) from Mammogram Imaging By Implementing Trained Neural Networks
 
 ## Team members
 
